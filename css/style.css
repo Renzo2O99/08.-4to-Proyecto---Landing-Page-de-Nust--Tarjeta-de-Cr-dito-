@@ -30,6 +30,10 @@ section[id], main[id] {
     scroll-margin-top: 5.4rem;
 }
 
+section[id="secutiry-section"] {
+    scroll-margin-top: 2rem;
+}
+
 body {
     font-family: var(--fuente__principal);
     font-size: 1.6rem;
